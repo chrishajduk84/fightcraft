@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="com.android.ide.eclipse.ddms:20.0.1.v201207132230-403220"/>
+		<item value="com.android.ide.eclipse.gldebugger:20.0.1.v201207132230-403220"/>
+		<item value="com.android.ide.eclipse.hierarchyviewer:20.0.1.v201207132230-403220"/>
+		<item value="com.android.ide.eclipse.traceview:20.0.1.v201207132230-403220"/>
+		<item value="org.eclipse.cvs:1.3.100.v20110520-0800-7B78FHl9VF7BD7KBM4GP9C"/>
+		<item value="org.eclipse.help:1.3.0.v20110530-0844-7i7uFFmFFl8nvqbDpEqTvx"/>
+		<item value="org.eclipse.jdt:3.7.2.v20120120-1414-7z8gFcuFMP7BW5XTz0jLTnz0l9B1"/>
+		<item value="org.eclipse.pde:3.7.2.v20120120-1420-7b7rFUOFEx2Xnqafnpz0E--0"/>
+		<item value="org.eclipse.rcp:3.7.2.v20120120-1424-9DB5FmnFq5JCf1UA38R-kz0S0272"/>
+	</list>
+</section>
