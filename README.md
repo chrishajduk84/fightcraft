@@ -8,4 +8,4 @@ Libraries required to build:
 
 To use a precompiled version, you can download the jar file [here](http://chrishajduk.com/img/Fightcraft22fat.jar).
 
-![fightcraft](http://chrishajduk.com/img/fightcraft.jpg){width=50%}
+![fightcraft](http://chrishajduk.com/img/fightcraft.jpg)
